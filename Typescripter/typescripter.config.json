@@ -1,0 +1,9 @@
+{
+	"Source": "./",
+	"Destination": "../app/models/generated",
+	"Files": ["*.[built Client].dll"],
+	"ControllerBaseClassName": ["ApiController"],
+	"HttpModule": "HttpClientModule",
+	"ApiRelativePath": "api/action",
+	"CombineImports": true
+}
